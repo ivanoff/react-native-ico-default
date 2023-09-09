@@ -1,6 +1,6 @@
 {
   "name": "react-native-ico-default",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "description": "Default Icons for React Native",
   "main": "src/index.jsx",
   "types": "typings.d.ts",
